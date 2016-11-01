@@ -1,6 +1,6 @@
 # Site settings
 title: Nikita Shuvalov
-email: your-email@domain.com
+email: nshuvalov89@gmail.com
 url: https://nikshuvalov.github.io
 description: "Programming portfolio website for Nikita"
 skills: "Android Developer, Creative Constructor, Tenacious Tinkerer "
@@ -38,16 +38,14 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: https://www.linkedin.com/in/nikita-shuvalov
   - title: facebook
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/NikShuvalov
 
 # Postal address (add as many lines as necessary)
 address:
