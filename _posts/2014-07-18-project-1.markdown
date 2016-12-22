@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2016-12-22
+img: mock_mobile_commerce.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-title: The thing of the thing is the thing.
+project-date: October 2016
+client: Second Project for General Assembly Course
+category: Mobile App
+description: This app was the 2nd project for the Android Development Immersive course. The app uses a SQL database to store information about mock objects. It displays those objects on the store front page from which the user can then use a search to find a specific item(s) or click on an item to get more details on it. From the detail page the user can add the item to the shopping cart. Once in the shopping cart, the user can then view items in the shopping cart to either remove items or do a fake checkout which clears the entire list. (The files can be found here)[https://github.com/NikShuvalov/project-2]
+title: Sofa Cushion Treasures
 
 ---
