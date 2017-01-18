@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2017-01-18
+date: 2017-01-09
 img: TWAS_High_Res.png
 alt: image-alt
 project-date: January 2017
