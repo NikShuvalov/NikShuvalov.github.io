@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 7
+date: 2017-06-26
+img: clok_it_logo.png
+alt: image-alt
+project-date: June 2017
+client: Self
+client-url: https://nikshuvalov.github.io/
+category: Android Mobile App
+description: A weekly goal-tracking app. Set goals for yourself each week and clock the time your spend on those goals or tasks. The app clears your goal list on a weekly basis but keeps a record of the time you spent on those goals giving you chart and pie-graph breakdowns of how you spent your time. <br> <a href="https://play.google.com/store/apps/details?id=shuvalov.nikita.clokit">Available on Google Play Store</a> <br>
+title: ClokIt
+
+---
