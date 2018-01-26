@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-01-26
-img: mock_mobile_commerce.png
+img: line_graph_thumbnail.png
 alt: image-alt
 project-date: January 2018
 client: Graph Library
