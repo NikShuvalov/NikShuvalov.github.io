@@ -456,3 +456,11 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.secondary-divider{
+    max-width: 200;
+}
+
+.teal{
+    background-color: #18bc9c;
+}
