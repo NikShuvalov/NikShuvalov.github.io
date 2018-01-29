@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2016-12-22
+img: mock_mobile_commerce.png
+alt: image-alt
+project-date: October 2016
+client: Second Project for General Assembly Course
+client-url: https://github.com/NikShuvalov/project-2
+category: Mobile App
+description: This app was the 2nd project for the Android Development Immersive course. The app uses a SQL database to store information about mock objects. It displays those objects on the store front page from which the user can then use a search to find a specific item(s) or click on an item to get more details on it. From the detail page the user can add the item to the shopping cart. Once in the shopping cart, the user can then view items in the shopping cart to either remove items or do a fake checkout which clears the entire list. <a href="https://github.com/NikShuvalov/project-2">GitHub Link to Project</a>
+title: Sofa Cushion Treasures
+
+---
