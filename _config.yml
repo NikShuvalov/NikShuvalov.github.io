@@ -1,3 +1,4 @@
+include: [".well-known"]
 # Site settings
 title: Nikita Shuvalov
 email: nshuvalov89@gmail.com
