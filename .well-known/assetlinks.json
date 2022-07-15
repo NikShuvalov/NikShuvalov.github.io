@@ -1,1 +1,9 @@
-{"data": [{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"sha256_cert_fingerprints": ["59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"], "namespace": "android_app", "package_name": "com.zipari.democare.dev"}}]}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zipari.democare.dev",
+    "sha256_cert_fingerprints":
+    ["59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"]
+  }
+}]
