@@ -1,27 +1,50 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.zipari.democare.dev",
-    "sha256_cert_fingerprints":
-    ["59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zipari.democare.dev",
+      "sha256_cert_fingerprints": [
+        "59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zipari.democare.demo",
+      "sha256_cert_fingerprints": [
+        "59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zipari.democare.qat",
+      "sha256_cert_fingerprints": [
+        "59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joinhealth.memberportal",
+      "sha256_cert_fingerprints": [
+        "58:36:7C:03:33:40:27:92:75:A3:7F:ED:CD:87:8C:8F:1F:C8:69:1F:96:27:83:B3:75:45:AB:74:3E:EE:B5:FC"
+      ]
+    }
   }
-}, 
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.zipari.democare.demo",
-    "sha256_cert_fingerprints":
-    ["59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"]
-  }
-}, 
- {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.zipari.democare.qat",
-    "sha256_cert_fingerprints":
-    ["59:1C:C4:91:78:3B:4F:08:C2:40:19:3F:1A:95:E3:E2:54:2A:E8:B0:8B:0C:75:BB:D3:59:80:4E:8A:99:67:9C"]
-  }
-}]
+]
